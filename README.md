@@ -120,6 +120,8 @@ Candidate models:
 -   Risk classification
 -   Alerts and recommendations
 
+![Image of a Dashboard](Dashboard.png)
+
 ## Hardware
 
 ### Current Prototype
@@ -136,9 +138,10 @@ ESP32
         ▼
  Backend / Dashboard
 ```
-
 The DHT22 is used for **environmental monitoring**, not as a validated
 animal body-temperature sensor.
+
+![Image Description](Hardware_Prototype.jpeg)
 
 ### Planned Final Architecture
 
